@@ -1,0 +1,14 @@
+                          sudo apt update   
+sudo apt upgrde
+
+sudo apt upgrde
+
+
+sudo apt upgrde
+
+
+
+sudo apt update
+sudo apt upgrade
+
+
