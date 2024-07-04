@@ -1,0 +1,1 @@
+rsync -av /home/az/Desktop/rsyncScript/sourcex/ /home/az/Desktop/rsyncScript/destination --delete -n

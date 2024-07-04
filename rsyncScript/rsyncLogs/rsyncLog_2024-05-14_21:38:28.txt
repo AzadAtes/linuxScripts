@@ -1,0 +1,6 @@
+sending incremental file list
+rsync: [sender] change_dir "/home/az/Desktop/rsyncScript/sourcex" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.3.0]
